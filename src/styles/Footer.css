@@ -1,0 +1,25 @@
+.footer-div {
+  margin-top: 180px;
+  /* padding: 9rem; */
+  position: relative;
+  bottom: 0%;
+  left: 0%;
+  align-items: flex-end;
+  text-align: center;
+  color: #d0aaf3;
+}
+
+.footer-container {
+  margin-top: 20px;
+  background-image: url("../images/wave.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 40px;
+ 
+}
+
+@media screen and (min-width: 992px) {
+    .footer-div {
+        text-align: end !important;
+    }
+  }
