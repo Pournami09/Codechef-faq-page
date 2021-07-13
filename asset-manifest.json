@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Codechef-faq-page/static/css/main.d241782b.chunk.css",
+    "main.js": "/Codechef-faq-page/static/js/main.742e8f4c.chunk.js",
+    "main.js.map": "/Codechef-faq-page/static/js/main.742e8f4c.chunk.js.map",
+    "runtime-main.js": "/Codechef-faq-page/static/js/runtime-main.5b4a5e5d.js",
+    "runtime-main.js.map": "/Codechef-faq-page/static/js/runtime-main.5b4a5e5d.js.map",
+    "static/css/2.4be38407.chunk.css": "/Codechef-faq-page/static/css/2.4be38407.chunk.css",
+    "static/js/2.8a347216.chunk.js": "/Codechef-faq-page/static/js/2.8a347216.chunk.js",
+    "static/js/2.8a347216.chunk.js.map": "/Codechef-faq-page/static/js/2.8a347216.chunk.js.map",
+    "static/js/3.373777fb.chunk.js": "/Codechef-faq-page/static/js/3.373777fb.chunk.js",
+    "static/js/3.373777fb.chunk.js.map": "/Codechef-faq-page/static/js/3.373777fb.chunk.js.map",
+    "index.html": "/Codechef-faq-page/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/Codechef-faq-page/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.d241782b.chunk.css.map": "/Codechef-faq-page/static/css/main.d241782b.chunk.css.map",
+    "static/js/2.8a347216.chunk.js.LICENSE.txt": "/Codechef-faq-page/static/js/2.8a347216.chunk.js.LICENSE.txt",
+    "static/media/Footer.css": "/Codechef-faq-page/static/media/wave.24274ccb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b4a5e5d.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.8a347216.chunk.js",
+    "static/css/main.d241782b.chunk.css",
+    "static/js/main.742e8f4c.chunk.js"
+  ]
+}
